@@ -4,3 +4,18 @@ body {
     background-color: #f5f6fa;
     color: #333;
 }
+
+header {
+	background-color: #005f99;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+section {
+	background-color: #7ccdff;
+	color: rgb(246, 241, 112);
+	text-align: center;
+	padding: 20px;
+    font-size: 1.25em;
+}
